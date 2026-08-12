@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00C2A8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+BIqra+GhafoorD+%F0%9F%91%8B;MS+Data+Science+student;Learning+AI+engineering+in+public" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00C2A8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Iqra+Ghafoor+%F0%9F%91%8B;MS+Data+Science+student;Learning+AI+engineering+in+public" alt="typing" />
 </p>
 
 ---
