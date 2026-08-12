@@ -12,8 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00C2A8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+%5BIqra+Ghafoor%5D+%F0%9F%91%8B;MS+Data+Science+student;Learning+AI+engineering+in+public" alt="typing" />
+</p>
 <h1 align="center">Hi, I'm Iqra Ghafoor 👋</h1>
-<p align="center">MS Data Science · Islamabad 🇵🇰 · learning in public</p>
+<p align="center">MS Data Science · learning in public</p>
 
 ---
 
@@ -37,10 +40,10 @@ I can't quietly quit.
 
 ## What I'm doing right now
 
-- 🐍 Learning Python: working through the basics, one day at a time
+- 🐍 Learning Python — currently deep in the fundamentals
 - 📖 Working on my MS thesis alongside it
 - 📓 Building everything in Jupyter notebooks and pushing it here
-- 🎥 Sharing the journey daily on Instagram, Facebook and X
+- 🎥 Sharing the journey daily on Instagram, and X
 - 📊 Tracking my hours in a spreadsheet, every single day
 
 `Status:` day one is easy. Day sixty is the real test.
@@ -52,6 +55,5 @@ I can't quietly quit.
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Iqra_Ghafoor_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqraaghafoor/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cybersec__ai)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iqraaa.ghafoor@gmail.com)
 
 <sub>Learning in public. Follow along if you're on the same road.</sub>
