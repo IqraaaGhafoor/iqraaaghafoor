@@ -57,6 +57,17 @@ I can't quietly quit.
 
 **Also worked with** — Machine Learning · NLP · Deep Learning . Power BI
 
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IqraaaGhafoor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IqraaaGhafoor&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IqraaaGhafoor&theme=tokyonight&hide_border=true" alt="streak" />
+</p>
+
 ## Say hi
 
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Iqra_Ghafoor_)
