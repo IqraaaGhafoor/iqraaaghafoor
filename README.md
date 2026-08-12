@@ -24,6 +24,28 @@ I can't quietly quit.
 
 > **Start before you're ready. Stay long enough to get good.**
 
+```python
+class Me:
+    def __init__(self):
+        self.role   = "MS Data Science student"
+        self.focus  = ["AI engineering", "cybersecurity", "AI security"]
+        self.stack  = ["Python", "NumPy", "Pandas", "scikit-learn"]
+        self.status = "learning in public, daily"
+
+    def why_ai_and_security(self):
+        return (
+            "Everyone is racing to build AI. "
+            "Far fewer people are asking how it breaks. "
+            "I want to be in that second group."
+        )
+
+    def today(self):
+        while not self.expert:
+            self.learn()
+            self.build()
+            self.share()   # so quitting stays embarrassing
+```
+
 <details>
 <summary><b>More about me</b></summary>
 
