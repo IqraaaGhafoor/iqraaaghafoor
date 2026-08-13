@@ -44,7 +44,7 @@ I can't quietly quit.
 - 🎥 Sharing the journey daily on Instagram, and X
 - 📊 Tracking my hours in a spreadsheet, every single day
 
-`Status:` day one is easy. Day sixty is the real test.
+Status: Day one is easy. Day sixty is the real test.
 
 ---
 ## Skills
