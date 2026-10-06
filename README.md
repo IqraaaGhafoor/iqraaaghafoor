@@ -101,26 +101,6 @@ I want to understand how LLM systems break, and help make them harder to break.
 
 **Experience in:** Machine Learning · Deep Learning · NLP · Data Visualization 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IqraaaGhafoor&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IqraaaGhafoor&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=IqraaaGhafoor&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/082107f0-7642-42d4-8522-6014d625187e" alt="GitHub contribution snake" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/IqraaaGhafoor?tab=repositories"><img src="https://img.shields.io/github/stars/IqraaaGhafoor?affiliations=OWNER&label=Stars&logo=github&style=for-the-badge&color=00ff00" alt="Total stars" /></a>
-  <a href="https://github.com/IqraaaGhafoor?tab=followers"><img src="https://img.shields.io/github/followers/IqraaaGhafoor?label=Followers&logo=github&style=for-the-badge&color=00ff00" alt="Followers" /></a>
-</p>
-
 ## ⚖️ Responsible Research
 
 <img align="right" src="https://github.com/user-attachments/assets/3cc4834d-e938-47c7-b960-3673f05ea460" width="380" alt="Code snippet describing responsible research principles" />
@@ -142,5 +122,26 @@ If you're into LLM security, prompt injection, or AI red teaming, I'd love to ch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iqraaghafoor/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Iqra_Ghafoor_/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cyb3rsec_ai)
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IqraaaGhafoor&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IqraaaGhafoor&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=IqraaaGhafoor&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/082107f0-7642-42d4-8522-6014d625187e" alt="GitHub contribution snake" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/IqraaaGhafoor?tab=repositories"><img src="https://img.shields.io/github/stars/IqraaaGhafoor?affiliations=OWNER&label=Stars&logo=github&style=for-the-badge&color=00ff00" alt="Total stars" /></a>
+  <a href="https://github.com/IqraaaGhafoor?tab=followers"><img src="https://img.shields.io/github/followers/IqraaaGhafoor?label=Followers&logo=github&style=for-the-badge&color=00ff00" alt="Followers" /></a>
+</p>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2A8,100:0F2027&height=120&section=footer" width="100%" alt="Footer" />
