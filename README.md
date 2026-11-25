@@ -72,17 +72,6 @@ I want to understand how LLM systems break, and help make them harder to break.
 - AI red teaming and adversarial testing
 - Security of LLM-powered applications
 
-## 📂 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/IqraaaGhafoor/ai-security-lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IqraaaGhafoor&repo=ai-security-lab&theme=tokyonight&hide_border=true" alt="ai-security-lab" />
-  </a>
-  <a href="https://github.com/IqraaaGhafoor/ai-engineering-journey">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IqraaaGhafoor&repo=ai-engineering-journey&theme=tokyonight&hide_border=true" alt="ai-engineering-journey" />
-  </a>
-</p>
-
 ## 🧰 Tech Stack
 
 **Languages & Data**
